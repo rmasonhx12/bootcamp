@@ -19,3 +19,6 @@
 - Conditional Rendering
   1. v-if -- v-else
   2. v-show
+
+## Project 4
+-- List rendering using data array
