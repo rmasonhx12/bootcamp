@@ -14,3 +14,8 @@
 
 ## Project 2
 - VueJs from cdn
+
+## Project 3
+- Conditional Rendering
+  1. v-if -- v-else
+  2. v-show
