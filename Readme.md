@@ -28,3 +28,4 @@
 1. Add to cart
 2. Change to addToCart()
 3. updateImage(variantImage)
+4. remove from cart
