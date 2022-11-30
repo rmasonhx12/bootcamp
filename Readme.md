@@ -21,27 +21,27 @@
   2. v-show
 
 ## Project 4
--- List rendering using data array
+- List rendering using data array
 
 ## Project 5
--- Event Handling
+- Event Handling
 1. Add to cart
 2. Change to addToCart()
 3. updateImage(variantImage)
 4. remove from cart
 
 ## Project 6
--- Class & Style Binding
+- Class & Style Binding
 
 
 ## Project 7
--- Computer Properties
+- Computer Properties
 
 ## Project 8
--- Components & Props
+- Components & Props
 
 ## Project 9
--- Communicating Events
+- Communicating Events
 
 ## Project 10
--- Forms & v-model
+- Forms & v-model
