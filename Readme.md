@@ -22,3 +22,7 @@
 
 ## Project 4
 -- List rendering using data array
+
+## Project 5
+-- Event Handling
+1. Add to cart
