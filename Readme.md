@@ -32,6 +32,8 @@
 
 ## Project 6
 - Class & Style Binding
+  1. Add color circle class
+  2. Add background color = variant color
 
 
 ## Project 7

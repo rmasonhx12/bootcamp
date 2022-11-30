@@ -32,8 +32,9 @@
               :key="variant.id" 
               @mouseover="updateImage(variant.image)"
               class="color-circle"
+              :style="{ backgroundColor: variant.color }"
               >
-            {{ variant.color }}</div>
+            </div>
             <button class="button" @click="addToCart">Add to Cart</button>
           </div>
         </div>
