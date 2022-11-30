@@ -26,3 +26,4 @@
 ## Project 5
 -- Event Handling
 1. Add to cart
+2. Change to addToCart()
